@@ -1,4 +1,4 @@
-def PLUGIN = "webview_flutter";
+def PLUGIN = "loveisland_webview";
 
 group 'io.flutter.plugins.webviewflutter'
 version '1.0-SNAPSHOT'

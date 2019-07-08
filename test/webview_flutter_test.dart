@@ -10,8 +10,8 @@ import 'package:flutter/src/foundation/basic_types.dart';
 import 'package:flutter/src/gestures/recognizer.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:webview_flutter/platform_interface.dart';
-import 'package:webview_flutter/webview_flutter.dart';
+import 'package:loveisland_webview/platform_interface.dart';
+import 'package:loveisland_webview/webview_flutter.dart';
 
 typedef void VoidCallback();
 

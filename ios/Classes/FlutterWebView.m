@@ -237,7 +237,7 @@
       NSNumber* hasDartNavigationDelegate = settings[key];
       _navigationDelegate.hasDartNavigationDelegate = [hasDartNavigationDelegate boolValue];
     } else {
-      NSLog(@"webview_flutter: unknown setting key: %@", key);
+      NSLog(@"loveisland_webview: unknown setting key: %@", key);
     }
   }
 }
@@ -252,7 +252,7 @@
       [preferences setJavaScriptEnabled:YES];
       break;
     default:
-      NSLog(@"webview_flutter: unknown JavaScript mode: %@", mode);
+      NSLog(@"loveisland_webview: unknown JavaScript mode: %@", mode);
   }
 }
 
